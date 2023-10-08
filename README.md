@@ -18,8 +18,8 @@ Open and run DurationMannWhitney.ipynb notebook.
 
 ## Sample Output
 
-![image](https://github.com/a1441/MannWhitneyU/assets/49153959/c02cd1a5-efc3-4e45-be0d-092978293777)
+![image](https://github.com/a1441/MannWhitneyU/assets/49153959/8750664c-36d9-494a-aea4-cff26ec38e17)
 
-U Statistic: 15826662
-P-Value: 0.0
-There is a significant difference between the two groups (Reject H0)
+- U Statistic: 15826662
+- P-Value: 0.0
+- There is a significant difference between the two groups (Reject H0)
